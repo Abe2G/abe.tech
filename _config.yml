@@ -1,0 +1,12 @@
+theme: jekyll-theme-minimal
+title: Data Science Projects
+description: This repository is my data science portifolio repository that I have created through self-directed learning. The repository contains data analysis, computer vision, NLP, and A/B testing projects.
+logo: wm2wts.jpg
+show_downloads: true
+footer-links:
+  email: wm2wts@gmail.com
+  facebook: https://www.facebook.com/wm2wts
+  github: abe2g
+  instagram: abebawueshetu
+  linkedin: www.linkedin.com/in/abebawu-eshetu
+  twitter: wm2wts
